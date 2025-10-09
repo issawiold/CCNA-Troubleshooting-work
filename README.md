@@ -1,5 +1,6 @@
 # CCNA-Troubleshooting-work
 >EN
+#Show version--> check time down or you can check the time stamps in the app
 #SHOW INT
 #SHOW INT F0/1
 #show ip int brief
@@ -16,6 +17,7 @@ Administrative shutdown
  Cable disconnection or failure
  Poor line/signal quality
  Speed or Duplex mismatch
+
  EtherChannel negotiation failure
  Encapsulation (Layer 2 protocol) mismatch
  VLAN mismatch
