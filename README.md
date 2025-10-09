@@ -4,6 +4,10 @@
 #SHOW INT
 #SHOW INT F0/1
 #show ip int brief
+ping
+ping ip
+traceroute
+#show controller
 =====================
 link state ==> up/down
 Layer 2 and layer 3 addresses
