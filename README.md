@@ -4,7 +4,8 @@
 \#Show version  
 --> check time down or you can check the time stamps in the app  
 
-\#SHOW INT  
+\#SHOW INT
+\#show int status
 \#SHOW INT F0/1  
 \#show ip int brief  
 ping  
