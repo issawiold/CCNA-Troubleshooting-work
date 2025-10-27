@@ -5,13 +5,22 @@
 --> check time down or you can check the time stamps in the app  
 
 \#SHOW INT
+
 \#show int status
+
 \#SHOW INT F0/1  
-\#show ip int brief  
-ping  
-ping ip  
-traceroute  
+
+\#show ip int brief 
+
 \#show controller  
+
+CMD
+ping  
+
+ping ip  
+
+tracert  
+
 
 =====================  
 **Link State** ==> up/down  
