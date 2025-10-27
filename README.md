@@ -8,6 +8,8 @@
 
 -check the stutus of the interfaace and layer 1 (status) and layer 2 (protocol)-
 
+-shows errors in the interface and runts an giants-
+
 \#show int status
 
 -check speed and duplex plese make sure there is no duplex mismatch-
