@@ -4,11 +4,21 @@
 \#Show version  
 --> check time down or you can check the time stamps in the app  
 
-\#SHOW INT
+\#SHOW INT 
+
+-check the stutus of the interfaace and layer 1 (status) and layer 2 (protocol)-
 
 \#show int status
 
-\#SHOW INT F0/1  
+-check speed and duplex plese make sure there is no duplex mismatch-
+
+-check if the int is connected or not-
+
+-check description under name-
+
+-when the int is shut down status here will become disabled-
+
+\#SHOW INT g#/# or #SHOW INT f#/# 
 
 \#show ip int brief 
 
